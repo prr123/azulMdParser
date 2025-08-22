@@ -59,7 +59,7 @@ The north is still interesting.
 ```
 
 ## directories
-
+`
 | - azmd  
 |   |  
 |	- sample.azmd  
@@ -69,7 +69,7 @@ The north is still interesting.
 	- head.yaml  
 	- summary.md  
 	- main.md  
-
+`
 azulMd Parser reads and azmd file from the azmd directory.  
 The program generates three files in the articles directory:
  - head.yaml 
