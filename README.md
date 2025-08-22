@@ -60,17 +60,19 @@ The north is still interesting.
 
 ## directories
 
-articles azmd
+| - azmd
+|   |
+|	- sample.azmd
+|
+| - articles 
+    |
+	- head.yaml
+	- summary.md
+	- main.md 
 
-|---------|
-|  azmd   | 
-|---------|
-
-reads and azmd file from the azmd directory
-
-the azmdMdParser generates three files in the articles directory
-
-|------------------------------|
-| head.yaml summary.md main.md |
-|------------------------------|
+azulMd Parser reads and azmd file from the azmd directory.  
+The program generates three files in the articles directory:
+ - head.yaml 
+ - summary.md 
+ - main.md 
 
