@@ -57,3 +57,20 @@ the market is changing.
 ## Conclusion
 The north is still interesting.
 ```
+
+## directories
+
+articles azmd
+
+|---------|
+|  azmd   | 
+|---------|
+
+reads and azmd file from the azmd directory
+
+the azmdMdParser generates three files in the articles directory
+
+|------------------------------|
+| head.yaml summary.md main.md |
+|------------------------------|
+
