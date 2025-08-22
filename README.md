@@ -46,13 +46,13 @@ keys:
 - "#spacesCabo"
 - "#homes"
 ---
-#Summary
+# Summary
 This is a summary of the article. It can be up to 500 chars long
 
-#Article
-##Introduction
+# Article
+## Introduction
 hello
-##The Market
+## The Market
 the market is changing.
 ## Conclusion
 The north is still interesting.
